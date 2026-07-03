@@ -7,7 +7,7 @@ Aspiring Software Engineer
 Python
 Roblox Developer
 Boxer
-Currently completing CS50x & CS50P
+CS50x & CS50P (in Progress)
 Robotics Challenge Participant
 
 Current Projects
